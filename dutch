@@ -1,0 +1,350 @@
+<?xml version="1.0"encoding="utf-8"?>
+
+<item>
+<title>FILMON: Havoc Television</title>
+<link>rtmp://204.107.26.252:8086/live/335.high.stream</link>
+<thumbnail>http://jameshaunt.com/wp-content/uploads/2012/01/havoc-tv-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>FILMON: Studio</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/1676.high.stream</link>
+<thumbnail>http://static.filmon.com/couch/channels/1676/big_logo.png</thumbnail>
+</item>
+
+<item>
+<title>FILMON: Paranormal TV</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/1618.high.stream</link>
+<thumbnail>http://www.onlinetvcast.com/upload/shows/show_147_thumbForVideoPanel.jpg</thumbnail>
+</item>
+
+<item>
+<title>FILMON: ACTION ZONE</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/1045.high.stream</link>
+<thumbnail>http://www.actionzone.uk.com/images/actionzone_sliced_02.png</thumbnail>
+</item>
+
+<item>
+<title>FILMON: VINTAGE MUSIC</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/1042.high.stream</link>
+<thumbnail>http://www.swingdanceuk.com/wp-content/uploads/2013/06/Vintage-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>FILMON: CHEER CHANNEL</title>
+<link>rtmp://204.107.26.142:8086/live/1019.low.stream</link>
+<thumbnail>http://www.cheergirlentertainment.com/yahoo_site_admin/assets/images/Cheer_Channel_Logo.34633145_std.jpg</thumbnail>
+</item>
+
+<item>
+<title>FILMON: THE WAR CHANNEL</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/805.high.stream</link>
+<thumbnail>http://static.filmon.com/couch/channels/805/extra_big_logo.png</thumbnail>
+</item>
+
+<item>
+<title>FILMON: Masked Republic AAA Lucha Libre</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/802.high.stream</link>
+<thumbnail>http://i1.wp.com/overtimenation.com/wp-content/uploads/2014/04/masked_republic.jpg?fit=615%2C300</thumbnail>
+</item>
+
+<item>
+<title>FILMON: ANIMAL ATLAS</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/799.high.stream</link>
+<thumbnail>http://www.shockya.com/news/wp-content/uploads/Animal-Atlas-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>FILMON: FOOTBALL</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/374.high.stream</link>
+<thumbnail>http://static.filmon.com/couch/channels/374/extra_big_logo.png</thumbnail>
+</item>
+
+<item>
+<title>FILMON: Wine Channel TV</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/263.high.stream</link>
+<thumbnail>http://www.omniburstmedia.com/sites/default/files/blog/winechannellogo@2x.png</thumbnail>
+</item>
+
+<item>
+<title>FILMON: Motorz</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/262.high.stream</link>
+<thumbnail>http://www.shockya.com/news/wp-content/uploads/Motorz-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>FILMON: MUSIC LEGENDS TV</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/257.high.stream</link>
+<thumbnail>http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2013/09/12/101028375-fe266f780bdf09d8ad9f5f4f9b98352bd820f041.530x298.jpg?v=1378974385</thumbnail>
+</item>
+
+<item>
+<title>FILMON: R SQUARED</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/256.high.stream</link>
+<thumbnail>http://static.squarespace.com/static/53233bd1e4b0255fa4916603/53235cb7e4b06ab984a41e68/53752b79e4b000acb069065b/?format=1000w</thumbnail>
+</item>
+
+<item>
+<title>FILMON: CLASSICS TV</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/206.high.stream</link>
+<thumbnail>http://static.squarespace.com/static/53233bd1e4b0255fa4916603/53235cb7e4b06ab984a41e68/53752b79e4b000acb069065b/?format=1000w</thumbnail>
+</item>
+
+<item>
+<title>FILMON: Martial Arts</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/10.high.stream</link>
+<thumbnail>http://i1.wp.com/www.liveonlinetv24x7.com/wp-content/uploads/2014/08/martial_arts_tv_uk.png?fit=300%2C300</thumbnail>
+</item>
+
+<item>
+<title>FILMON: iFlix TV</title>
+<link>rtmp://204.107.26.252:8086/live/1991.high.stream</link>
+<thumbnail>http://media-cache-ec0.pinimg.com/236x/d9/ef/79/d9ef79f0f1189ad3cfdb7c984e1f3368.jpg</thumbnail>
+</item>
+
+<item>
+<title>FILMON: Psychic Today</title>
+<link>rtmp://204.107.26.252:8086/live/1711.high.stream</link>
+<thumbnail>http://www.margeclairvoyant.co.uk/images/psychic_today_logo_lg.png</thumbnail>
+</item>
+
+<item>
+<title>FILMON: Ebru TV</title>
+<link>rtmp://204.107.26.252:8086/live/914.high.stream</link>
+<thumbnail>https://secure.surveymonkey.com/_resources/4272/41134272/b869861e-219a-40bb-959b-5833df611d5d.jpg</thumbnail>
+</item>
+
+<item>
+<title>FILMON: PRESS TV</title>
+<link>rtmp://204.107.26.252:8086/live/905.high.stream</link>
+<thumbnail>http://www.rebrandme.co.uk/presstv/logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>FILMON: GINX TV</title>
+<link>rtmp://204.107.26.252:8086/live/796.high.stream</link>
+<thumbnail>http://www.tacticalgaming.net/hq/news/wp-content/uploads/2014/03/GinxTV.png</thumbnail>
+</item>
+
+<item>
+<title>FILMON: YOUTOO TV</title>
+<link>rtmp://204.107.26.252:8086/live/773.high.stream</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/2/29/Youtoo.jpg</thumbnail>
+</item>
+
+<item>
+<title>FILMON: FREE SPEECH TV</title>
+<link>rtmp://204.107.26.252:8086/live/697.high.stream</link>
+<thumbnail>http://whatsonline.tv/wp-content/uploads/2014/02/FreeSpeechTV.jpg</thumbnail>
+</item>
+
+<item>
+<title>FILMON: Sportskool</title>
+<link>rtmp://204.107.26.252:8086/live/686.high.stream</link>
+<thumbnail>http://www.gracecreek.com/production/sportskool/files/sportskool.png</thumbnail>
+</item>
+
+<item>
+<title>FILMON: TIME TV</title>
+<link>rtmp://204.107.26.252:8086/live/414.high.stream</link>
+<thumbnail>http://bo7.net/wp-content/uploads/2014/02/3941465_300.jpg</thumbnail>
+</item>
+
+<item>
+<title>FILMON: QVC TV HD</title>
+<link>rtmp://204.107.26.252:8086/live/413.high.stream</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/QVC_HD.svg/220px-QVC_HD.svg.png</thumbnail>
+</item>
+
+<item>
+<title>FILMON: WEALTH TV</title>
+<link>rtmp://204.107.26.252:8086/live/403.high.stream </link>
+<thumbnail>http://realcombatmedia.com/wp-content/uploads/2013/03/wealth_tv.png</thumbnail>
+</item>
+
+<item>
+<title>FILMON: American Horrors</title>
+<link>rtmp://204.107.26.252:8086/live/393.high.stream</link>
+<thumbnail>http://www.myimaginetv.com/sites/default/files/images/filmon-logo-stb.png</thumbnail>
+</item>
+
+<item>
+<title>FILMON: e Scapes HD TV</title>
+<link>rtmp://204.107.26.252:8086/live/341.high.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/escapes.png</thumbnail>
+</item>
+
+<item>
+<title>FILMON: TVC LATINO</title>
+<link>rtmp://204.107.26.252:8086/live/213.high.stream</link>
+<thumbnail>http://static.filmon.com/couch/channels/213/extra_big_logo.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR green]NEDERLAND: rtv dort[/COLOR]</title>
+<link>rtmp://live.streamone.nl/livestream/r2Dg7AiHkp</link>
+<thumbnail>http://rtvdordrecht.nl/wp-content/themes/rtvd/images/logo-rtvd.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]NEDERLAND: rijnmond[/COLOR]</title>
+<link>rtmp://cdn.stream.bbvms.com/live/rijnmond/tv-high</link>
+<thumbnail>http://www.nederlogoantwoorden.nl/wp-content/gallery/nieuw-level-8/thumbs/thumbs_rtv-rijnmond.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]NEDERLAND: Schiedam [/COLOR]</title>
+<link>rtmp://live.streamone.nl/livestream/y2DFk1fZsq</link>
+<thumbnail>http://www.rtvvis.nl/sites/default/files/images/Logo%20Radio%20Schiedam%20(2008).gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]NEDERLAND: rtvdrenthe[/COLOR]</title>
+<link>rtmp://stream.rtvdrenthe.nl/tv/tvstream1</link>
+<thumbnail>http://www.jingleweb.nl/wp-content/uploads/2010/10/RTV-Drenthe-150x150.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]NEDERLAND: AT 5[/COLOR]</title>
+<link>rtsp://82.94.228.213:1935/broadcast/_definst_/stream1</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK84VMY_U53-UadQr4zETNuxjLRWLvJl1AVwt_xmWLVeAgMO9y</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]NEDERLAND: omroepzeeland[/COLOR]</title>
+<link>rtmp://livestream.zeelandnet.nl/live/omroepzeeland_tv_200k.sdp</link>
+<thumbnail>http://static3.omroepzeeland.nl/sites/all/themes/omroepzeeland/logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]NEDERLAND: Salto 1 TV[/COLOR]</title>
+<link>mms://195.169.148.57/A1</link>
+<thumbnail>http://www.salto.nl/images/logos/zender_salto1_r.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]NEDERLAND: Salto 2 TV[/COLOR]</title>
+<link>mms://195.169.148.57/A2</link>
+<thumbnail>http://www.salto.nl/images/logos/zender_salto2_r.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]NEDERLAND: TVOost[/COLOR]</title>
+<link>mms://media.rtvoost.nl/TVOost</link>
+<thumbnail>http://www.rtvoost.nl/images/opmaak/rtvoost_logo_klein.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]NEDERLAND: Goed TV[/COLOR]</title>
+<link>http://streaming2.instorebroadcast.com:8080/WebStream?group=cWLsJYPwFK50CkbA3kmwrw==</link>
+<thumbnail>http://themaned.nl/wp/images/zenders_logos/goedtv.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]NEDERLAND: rtv emmen cam[/COLOR]</title>
+<link>mms://groningen.rtvemmen.nl/rtvemmencam</link>
+<thumbnail>https://www.rtvemmen.nl/images/rtv_emmen.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]NEDERLAND: OmroepBrabant[/COLOR]</title>
+<link>rtmp://213.75.89.157:1935/omroepbrabantlive/_definst_/OmroepBrabant_TV1</link>
+<thumbnail>http://www.omroepbrabant.nl/Graphics/Images/logo_header.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]NEDERLAND: omropfryslan[/COLOR]</title>
+<link>rtmp://213.75.58.162:1935/omropfryslanlive/_definst_/KpnOmropLive-2</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/Omrop_Frysl%C3%A2n.png/revision/latest?cb=20130502212036</thumbnail>
+</item>
+
+###############################################################################################adult#########################################
+
+
+<item>
+<title>[COLOR red]russian night[/COLOR]</title>
+<link>http://109.248.66.145:5555/udp/239.195.2.3:1234</link>
+<thumbnail>http://www.seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.gif</thumbnail>
+<date>HM</date>
+</item>
+
+<item>
+<title>[COLOR red]Escales[/COLOR]</title>
+<link>http://88.203.214.12:4022/udp/239.10.1.197:30000</link>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
+<date>HM</date>
+</item>
+ 
+<item>
+<title>[COLOR red]AbMoteurs[/COLOR]</title>
+<link>http://iptv.multi-net.ru/udp/239.255.4.5:1234?by_HasBahCa</link>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
+<date>HM</date>
+</item>
+
+<item>
+<title>[COLOR red] Animaux[/COLOR]</title>
+<link>http://iptv.multi-net.ru/udp/239.255.4.6:1234?by_HasBahCa</link>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
+<date>HM</date>
+</item>
+
+<item>
+<title>[COLOR red]ENCYCLO[/COLOR]</title>
+<link>http://iptv.multi-net.ru/udp/239.255.4.4:1234?by_HasBahCa</link>
+<thumbnail>http://www.seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.gif</thumbnail>
+<date>HM</date>
+</item>
+
+<item>
+<title>[COLOR red]Chasse $ Peche[/COLOR]</title>
+<link>http://178.151.169.18:8888/udp/238.0.17.149:1234</link>
+<thumbnail>http://www.seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.gif</thumbnail>
+<date>HM</date>
+</item>
+
+<item>
+<title>[COLOR red]ENGLISH CLUB TV[/COLOR]</title>
+<link>http://85.187.154.9:2001/</link>
+<thumbnail>http://www.seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.gif</thumbnail>
+<date>HM</date>
+</item>
+
+
+#############################music######################################################
+
+
+
+<item>
+<title>[COLOR yellow]MUSICTV:MTV[/COLOR]</title>
+<link>
+http://83.139.104.123/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8?b?b*t$</link>
+<thumbnail>http://www.bangsandabun.com/wp-content/uploads/2011/04/MTV-Logo-MTV.jpg</thumbnail>
+<date>HM</date>
+</item>
+
+<item>
+<title>[COLOR yellow]MUSICTV:MTV DANCE[/COLOR]</title>
+<link>
+http://acabsw.doiptv.com/mtvdance/playlist.m3u8|User-Agent=stagefright</link>
+<thumbnail>http://www.bangsandabun.com/wp-content/uploads/2011/04/MTV-Logo-MTV.jpg</thumbnail>
+<date>HM</date>
+</item>
+
+<item>
+<title>[COLOR yellow]MUSICTV:MTV HITS[/COLOR]</title>
+<link>
+http://acabsw.doiptv.com/mtvhits/playlist.m3u8|User-Agent=stagefright</link>
+<thumbnail>http://www.bangsandabun.com/wp-content/uploads/2011/04/MTV-Logo-MTV.jpg</thumbnail>
+<date>HM</date>
+</item>
+
+<item>
+<title>[COLOR yellow]MUSICTV:MTV ROCKS[/COLOR]</title>
+<link>
+http://acabsw.doiptv.com/mtvrocs/playlist.m3u8|User-Agent=stagefright</link>
+<thumbnail>http://www.bangsandabun.com/wp-content/uploads/2011/04/MTV-Logo-MTV.jpg</thumbnail>
+<date>HM</date>
+</item>
